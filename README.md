@@ -14,7 +14,7 @@ Tests instantiate the API application using Microsoft.AspNetCore.Mvc.Testing and
 
 # SpecFlowTest
 
-Demonstrates the implementation of BDD test using SpecFlow.NUnit and Ghirkin style. 
+Demonstrates the implementation of BDD test using SpecFlow.NUnit and Gherkin style. 
 
 Before tests running it is needed to run the application by navigating to ..\GraphQL.NET and running 'dotnet run' command.
 
@@ -22,4 +22,4 @@ Before tests running it is needed to run the application by navigating to ..\Gra
 
 Contains xUnit test project with tests for GraphQL client of GraphQL.NET project.
 
-Before tests running it is needed to run the application by navigating to ..\GraphQL.NET and running 'dotnet run --launch-profile GraphQL'- to work around SSL issue.
+Before tests running it is needed to run the application by navigating to ..\GraphQL.NET and running 'dotnet run --launch-profile GraphQL' to work around SSL issue.
